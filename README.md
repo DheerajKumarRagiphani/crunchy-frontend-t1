@@ -15,7 +15,7 @@ A three-page website built using semantic HTML5.
 - GitHub Pages
 
 ## Live Website
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
+https://dheerajkumarragiphani.github.io/crunchy-frontend-t1/
 
 ## HTML Validation
 HTML pages were checked using the W3C HTML Validator.
